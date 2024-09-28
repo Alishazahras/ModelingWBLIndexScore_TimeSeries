@@ -4,7 +4,7 @@ Modeling and forecasting the Women Business and Law (WBL) Index score is crucial
 ## Objectives 
 1. **Assessing Methods:** To apply and compare various forecasting techniques to predict the WBL Index score for Indonesia.
 2. **Understanding Gender Equality Progress:** To use the forecasted WBL scores as a means to understand the trajectory of gender equality in Indonesian business policies.
-3. **Model Selection:** To identify the most reliable forecasting model, with the primary focus on minimizing forecasting errors (RMSE, MSE) during testing.
+3. **Model Selection:** To identify the most reliable forecasting model, with the primary focus on minimizing forecasting errors (RMSE, MSE, MAPE, and MAE) during testing.
 
 ## Data Overview
 The dataset for this project was sourced from the World Bank Open Data Platform, specifically from the Women, Business, and the Law (WBL) index for Indonesia. The WBL index measures gender equality across various dimensions of business law, assessing the laws and regulations that impact women’s economic inclusion and business opportunities.
